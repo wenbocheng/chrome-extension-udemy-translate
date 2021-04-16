@@ -26,7 +26,7 @@
     "react-color": "^2.18.0",
     "react-dom": "^16.12.0",
     "react-hot-loader": "^4.12.18",
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "zepto": "^1.2.0"
   },
   "devDependencies": {
